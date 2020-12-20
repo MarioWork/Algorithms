@@ -1,0 +1,16 @@
+C:\Users\filip\Desktop\HashMap\obj\Debug\net5.0\HashMap.csprojAssemblyReference.cache
+C:\Users\filip\Desktop\HashMap\obj\Debug\net5.0\HashMap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Desktop\HashMap\obj\Debug\net5.0\HashMap.AssemblyInfoInputs.cache
+C:\Users\filip\Desktop\HashMap\obj\Debug\net5.0\HashMap.AssemblyInfo.cs
+C:\Users\filip\Desktop\HashMap\obj\Debug\net5.0\HashMap.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\HashMap\bin\Debug\net5.0\HashMap.exe
+C:\Users\filip\Desktop\HashMap\bin\Debug\net5.0\HashMap.deps.json
+C:\Users\filip\Desktop\HashMap\bin\Debug\net5.0\HashMap.runtimeconfig.json
+C:\Users\filip\Desktop\HashMap\bin\Debug\net5.0\HashMap.runtimeconfig.dev.json
+C:\Users\filip\Desktop\HashMap\bin\Debug\net5.0\HashMap.dll
+C:\Users\filip\Desktop\HashMap\bin\Debug\net5.0\ref\HashMap.dll
+C:\Users\filip\Desktop\HashMap\bin\Debug\net5.0\HashMap.pdb
+C:\Users\filip\Desktop\HashMap\obj\Debug\net5.0\HashMap.dll
+C:\Users\filip\Desktop\HashMap\obj\Debug\net5.0\ref\HashMap.dll
+C:\Users\filip\Desktop\HashMap\obj\Debug\net5.0\HashMap.pdb
+C:\Users\filip\Desktop\HashMap\obj\Debug\net5.0\HashMap.genruntimeconfig.cache
