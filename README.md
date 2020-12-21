@@ -1,2 +1,2 @@
-# Algorithms c# 
-Solving Algorithms using c#.
+# Algorithms C# 
+Solving Algorithms using C#.
